@@ -1,7 +1,7 @@
 # 주제: VMware에 WAS(Tomcat) 설치하기 
 ## 학습 목표
 
-- **실습 내용** 자바(Java) 기반의 가장 대표적인 오픈소스 WAS인 Tomcat(톰캣)을 Rocky Linux에 설치합니다.
+- **실습 내용:** 자바(Java) 기반의 가장 대표적인 오픈소스 WAS인 Tomcat(톰캣)을 Rocky Linux에 설치합니다.
 - **배우는 개념:** WAS의 역할, 포트(Port) 개념(Tomcat의 기본 포트인 8080 오픈), 방화벽(Firewall) 설정 방법, 프로세스 구동 확인(`ps -ef`, `systemctl`).
 
 ---
