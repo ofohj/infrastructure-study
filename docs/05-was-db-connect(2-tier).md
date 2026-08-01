@@ -13,6 +13,7 @@ wget https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.1.4/m
 ```
 
 ## 2. DB에서 데이터 가져와서 보여주는 웹페이지(jsp) 코드 입력하기
+- **JSP(Java Server Pages)**: HTML 문서 안에 자바 코드를 넣어 동적 웹페이지를 만들어주는 기술
 ```bash
 # 톰캣이 웹사이트 화면을 저장하는 기본 폴더로 이동
 cd /opt/tomcat/webapps/ROOT
