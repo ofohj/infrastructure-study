@@ -61,7 +61,7 @@
 | --- | --- | --- |
 | **Use bridged networking** | 가상머신을 (호스트 PC와 동등한 자격으로) 공유기에 직접 연결해 독자적인 IP를 할당받음 | 외부에 서버를 공개할 때 사용 |
 | **Use network address translation(NAT)** | 호스트 PC의 IP를 공유받아 외부 인터넷에 접속(PC를 하나의 공유기처럼 활용) | 외부 서버의 접근을 막을 때 적합 |
-| **Use network address translation(NAT)** | 외부 인터넷과 전면 차단되고 오직 내 PC와 가상머신 사이만 통신하는 방식 | 악성코드 분석, 보안 실습에 활용 |
+| **Use host-only networking** | 외부 인터넷과 전면 차단되고 오직 내 PC와 가상머신 사이만 통신하는 방식 | 악성코드 분석, 보안 실습에 활용 |
 
 
 <br>
