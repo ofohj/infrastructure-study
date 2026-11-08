@@ -1,6 +1,6 @@
 # 3-Tier Architecture Setup
 
-실무 중심의 리눅스, 네트워크, 보안 및 3-Tier 아키텍처 구축 실습을 기록하는 공간입니다.
+VMware 가상화 환경에 Linux 기반 서버를 구성하고, 3-Tier 아키텍처 구축 및 서버 간 통신 실습에 대한 내용을 기록했습니다.
 
 ## 🛠️ 주요 실습 내용
 - **3-Tier Architecture:** Web(Nginx) - WAS(Tomcat) - DB(MariaDB) 구조의 물리적 망 분리 환경 및 보안 연동 실습
